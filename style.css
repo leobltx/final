@@ -91,6 +91,11 @@ div{
 	color: #2A3944;
 }
 
+.btn-blue{
+background:url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Ff%2Ff8%2FRiesenradoktoberfest.jpg&imgrefurl=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FGrande_roue&tbnid=yCHzwec57Z4wRM&vet=12ahUKEwjhm-v535btAhVY0oUKHeFpCPIQMygAegUIARCmAQ..i&docid=zFuYVLSAfh-fkM&w=800&h=600&q=grande%20roue%20attraction&ved=2ahUKEwjhm-v535btAhVY0oUKHeFpCPIQMygAegUIARCmAQ);
+}
+<input type="[type]" class="btn-blue" />
+
 .list-inline {
 	list-style: none;
 	padding-left: 0px;
