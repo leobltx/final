@@ -92,9 +92,8 @@ div{
 }
 
 .btn-blue{
-background:url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Ff%2Ff8%2FRiesenradoktoberfest.jpg&imgrefurl=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FGrande_roue&tbnid=yCHzwec57Z4wRM&vet=12ahUKEwjhm-v535btAhVY0oUKHeFpCPIQMygAegUIARCmAQ..i&docid=zFuYVLSAfh-fkM&w=800&h=600&q=grande%20roue%20attraction&ved=2ahUKEwjhm-v535btAhVY0oUKHeFpCPIQMygAegUIARCmAQ);
+background-image : https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.fr%2Fpin%2F563161128373462769%2F&psig=AOvVaw0To-sVAuza7-CZoSDXL-0Q&ust=1606155047676000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiN37Tglu0CFQAAAAAdAAAAABAD;
 }
-<input type="[type]" class="btn-blue" />
 
 .list-inline {
 	list-style: none;
